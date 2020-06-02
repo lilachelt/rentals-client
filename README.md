@@ -8,6 +8,7 @@ hosting service for managing media and uploading images to Amazon S3.
 - Allows different options of search such as ranged values or free text.
 
 *You can see attached screenshots from web application in "screenshot rentals web application" folder
+
 *You can see attached the architecture design Client & Service  
 
 Todo List:
