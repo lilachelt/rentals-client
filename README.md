@@ -1,7 +1,17 @@
 # rentals-client
 
+Real estate listings advertising web application:
+- Microservices-based built using Node.js, ReactJS and MongoDB , which
+consist of multiple services like gateway, property-management and an
+hosting service for managing media and uploading images to Amazon S3.
+- CRUD user interface
+- Allows different options of search such as ranged values or free text.
+
+*You can see attached screenshots from web application in "screenshot rentals web application" folder
+*You can see attached the architecture design Client & Service  
+
 Todo List:
-1. Change the application design with context API or Redux.
+1. Change the application design client with context API or Redux.
 2. Change all API requests to gateway-service
 3. Finish remove and edit apartments - image feature
 4. Add sign-up and login form
