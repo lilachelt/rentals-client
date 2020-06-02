@@ -1,4 +1,4 @@
-# rentals-client
+# rentals web application
 
 Real estate listings advertising web application:
 - Microservices-based built using Node.js, ReactJS and MongoDB , which
