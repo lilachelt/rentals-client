@@ -1,7 +1,7 @@
-# rentals web application
+# Rentals web application
 
 Real estate listings advertising web application:
-- Microservices-based built using Node.js, ReactJS and MongoDB , which
+- Microservices-based built using Node.js, ReactJS and MongoDB, which
 consist of multiple services like gateway, property-management and an
 hosting service for managing media and uploading images to Amazon S3.
 - CRUD user interface
