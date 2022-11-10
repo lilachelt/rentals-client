@@ -21,7 +21,7 @@
     "react-input-range": "^1.3.0",
     "react-md-spinner": "^1.0.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "react-cosmos": "^5.0.0-beta.15"
